@@ -1,5 +1,12 @@
+/*
+ * 
+ *@author : Kaiwalya Koparkar
+ *@date : 18 /9 /2020
+ *@resource : https://thewireuschallenge.com  
+ *@question : 2D array traversal column wise 
+ *
+ */
 package Day1Challenge;
-
 import java.util.*;
 
 public class Solution{
