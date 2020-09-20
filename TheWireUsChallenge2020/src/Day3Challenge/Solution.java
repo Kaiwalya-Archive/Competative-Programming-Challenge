@@ -3,7 +3,7 @@
  *@author : Kaiwalya Koparkar
  *@date : 20 /9 /2020
  *@resource : https://thewireuschallenge.com  
- *@question : Java program to find maximum rectangular area in linear time  
+ *@question : To find maximum rectangular area in histogram
  *
  */
 package Day3Challenge;
