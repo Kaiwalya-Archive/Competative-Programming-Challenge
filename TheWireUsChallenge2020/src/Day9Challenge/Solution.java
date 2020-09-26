@@ -19,11 +19,12 @@ public class Solution {
 		for(int i=0; i<size; i++) {
 			arr[i] = sc.nextInt();
 		}
+		sc.close();
 	
 		for (int i = 0; i < size / 2; i++) { 
-            int t = arr[i]; 
+            int temp = arr[i]; 
             arr[i] = arr[size - i - 1]; 
-            arr[size - i - 1] = t; 
+            arr[size - i - 1] = temp; 
         } 
 		
 		for(int i=0; i<size; i++) {
